@@ -1,5 +1,5 @@
 # Chatbot
-Exemplo de um projeto conversação humano x máquina (para fins didáticos).
+Exemplo de conversação humano x máquina (para fins didáticos).
 
 # Requisitos
 - Baixar projeto 
