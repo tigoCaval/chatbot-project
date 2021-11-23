@@ -6,4 +6,7 @@ Exemplo de um projeto conversação humano x máquina (para fins didáticos).
 - Composer (instalar)
 - PHP >= 7.3
 - Executar comando ```composer update``` ou ```composer require tigo/chatterbot```
+---
+Código fonte: [@chatterbot](https://github.com/tigoCaval/chatterbot)
+
 
