@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tigo/chatterbot": "^0.0.2"
+    }
+}
